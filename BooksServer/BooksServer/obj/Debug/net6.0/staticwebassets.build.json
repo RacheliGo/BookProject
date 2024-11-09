@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8WUlPBUT2YjmknDMajWYQas9IrMmeeFnno0lLesBrvk=",
+  "Source": "BooksServer",
+  "BasePath": "_content/BooksServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
